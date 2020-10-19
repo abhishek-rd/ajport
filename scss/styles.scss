@@ -925,6 +925,11 @@ footer {
         transform: none;
         left: auto;
         top: auto;
+        a {
+            text-decoration: none;
+            color: inherit;
+        }
+        
 
         h1 {
             font-size: 3em;
