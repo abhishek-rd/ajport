@@ -364,6 +364,10 @@ footer {
     transform: translate(-50%, -50%);
     text-align: center;
 
+    a:visited {
+        text-decoration: none;
+      }
+
     h1, h2 {
         margin: 0;
     }
